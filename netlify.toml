@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "docker build -f cd.dockerfile -t yananas23/spring-app:main ."
+  command = "docker build -f cd.dockerfile -t redfire117/spring-app:main ."
   functions = "netlify/functions"
   publish = ""
 
